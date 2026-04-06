@@ -3,7 +3,6 @@ import json
 import random
 from google.cloud import pubsub_v1
 
-# Kendi Proje ID'ni buraya yaz
 project_id = "soc-dashboard-project" 
 topic_id = "security-logs"
 
@@ -29,7 +28,6 @@ while True:
     data = generate_soc_log()
     message = json.dumps(data).encode("utf-8")
     
-    # Mesajı Pub/Sub'a fırlatıyoruz
     future = publisher.publish(topic_path, message)
     
     print(f"[{data['severity']}] Gönderilen Log: {data['event']} - IP: {data['source_ip']}")
