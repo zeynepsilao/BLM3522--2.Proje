@@ -1,6 +1,6 @@
 # SOC Log Bridge: Gerçek Zamanlı Güvenlik Olay Akışı ve Bulut İşleme Sistemi
 
-Bu proje, Bulut Bilişim Dersi (Proje 2) kapsamında geliştirilmiş gerçek zamanlı bir veri akışı ve işleme mimarisidir. Bir ağda gerçekleşen siber güvenlik olaylarını (Brute Force, SQL Injection, Malware Sync vb.) simüle ederek, bulut platformu üzerinde asenkron olarak işler ve depolar.
+Bu proje, BLM3522 kodlu Bulut Bilişim Dersi (Proje 2) kapsamında geliştirilmiş gerçek zamanlı bir veri akışı ve işleme mimarisidir. Bir ağda gerçekleşen siber güvenlik olaylarını (Brute Force, SQL Injection, Malware Sync vb.) simüle ederek, bulut platformu üzerinde asenkron olarak işler ve depolar.
 
 ## Proje Mimarisinin Özeti
 
