@@ -32,3 +32,6 @@ Sistem "Event-Driven" bir mimariyle kurgulanmış olup tamamen Google Cloud serv
 
 ---
 *Bu proje, siber güvenlik operasyon merkezlerinde (SOC) kullanılan gerçek zamanlı log toplama ve analiz altyapılarının bulut tabanlı bir prototipidir.*
+---
+### **Video Link:**
+https://drive.google.com/drive/u/0/folders/1WNYOpuxZn-Ga60_xAiZYIOVon6rZ9hwY
